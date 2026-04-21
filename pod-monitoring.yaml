@@ -24,4 +24,4 @@ spec:
       app: prometheus-test
   endpoints:
   - port: metrics
-    interval: 45s
+    interval: 60s
